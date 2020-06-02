@@ -7,7 +7,6 @@
 
 '''
 
-
 import pandas as pd
 import numpy as np
 import plotly.subplots as tls
