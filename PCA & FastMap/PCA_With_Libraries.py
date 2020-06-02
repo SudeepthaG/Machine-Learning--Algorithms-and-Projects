@@ -1,6 +1,3 @@
-# Group Members:
-# Vanessa Tan (ID: 4233243951)
-# Sudeeptha Mouni Ganji (ID: 2942771049)
 
 import numpy as np
 from sklearn.decomposition import PCA
