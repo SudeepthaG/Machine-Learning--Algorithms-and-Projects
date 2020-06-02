@@ -1,0 +1,5 @@
+This folder contains the following implementations:
+1.Implement the Perceptron Learning algorithm on the data file "classification.txt" ignoring the 5th column.
+2.Implement the Pocket algorithm and run it on the data file "classification.txt" ignoring the 4th column.
+3.Implement Logistic Regression and run it on the points in the data file "classification.txt" ignoring the 4th column.
+4.Implement Linear Regression and run it on the points in the data file "linear-regression.txt".
