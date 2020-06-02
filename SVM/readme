@@ -1,0 +1,4 @@
+This folder contains the following implementations using support vector machines:
+1.Find the fattest margin line that separates the points in linsep.txt
+2.Using a kernel function of your choice along with the same Quadratic Programming solver, 
+  find the equation of a curve that separates the points in nonlinsep.txt.
