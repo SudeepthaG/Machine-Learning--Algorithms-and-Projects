@@ -1,1 +1,2 @@
-This folder contains the implementation for Hidden Markov Model to figure out the most likely trajectory of a robot in a grid-world.
+This folder contains the implementation for Hidden Markov Model using Viterbi algorithm to figure out 
+the most likely trajectory of a robot in a grid-world.
