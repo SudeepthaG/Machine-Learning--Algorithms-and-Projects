@@ -1,0 +1,3 @@
+In this folder we are implementing the Back Propagationalgorithm for Feed Forward Neural Networks to learn the down gestures 
+from training instances available in downgesture_train.list.
+Then we are using the trained network to predict the labels for the gestures in the test images available in downgesture_test.list.
