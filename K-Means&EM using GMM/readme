@@ -1,1 +1,5 @@
-This folder contains the implemetations of two clustering algorithms - K-means algorithm and the Expectation Maximization algorithm for clustering using Gaussian Mixture Model (GMM) for the given input file-clusters.txt
+This folder contains the implemetations of two clustering algorithms :-
+K-means algorithm and 
+Expectation Maximization algorithm for clustering using Gaussian Mixture Model (GMM) 
+
+These algorithms were implemented for the input file - clusters.txt
