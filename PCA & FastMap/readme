@@ -1,0 +1,3 @@
+This folder contains the following implementations:
+1.Use PCA to reduce the dimensionality of the data points in pca-data.txt
+2.Use FastMap to embed the objects in fastmap-data.txt into a 2D space
