@@ -1,6 +1,4 @@
-# Group Members:
-# Vanessa Tan (ID: 4233243951)
-# Sudeeptha Mouni Ganji (ID: 2942771049)
+
 
 import numpy as np
 import pandas as pd
