@@ -1,2 +1,6 @@
 This folder contains the implementation for Hidden Markov Model using Viterbi algorithm to figure out 
 the most likely trajectory of a robot in a grid-world.
+
+I have also implemented a similar model where I try to find the optimal path for a Mars rover which has
+a height limitation by using various search techniques 
+This project can be found here: https://github.com/SudeepthaG/Optimal-Path-Finder-for-Mars-Rover
