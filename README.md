@@ -10,5 +10,6 @@ This repository includes the implementation of the following algorithms from scr
 6. Support Vector Machines
 7. Hidden Markov Model using Viterbi Algorithm
 
-Final Project: Clustering of Countries based on Covid-19 indicators
+Final Project - Clustering of Countries based on Covid-19 indicators:
+
 In 2019, the novel coronavirus shook the world. We attempted to find hidden patterns by analysing how we could  effectively group different countries based on various features like health conditions of people, nourishment  levels, testing done, access to healthcare etc.by using 2 different clustering algorithms, K-Means and Expectation Maximization using Gaussian Mixture Models. We are also trying to find out which factors are affecting Covid-19 cases the most and analyse how the top 5 factors are affecting the Covid-19 cases in different countries.
